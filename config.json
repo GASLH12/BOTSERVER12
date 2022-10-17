@@ -1,0 +1,9 @@
+
+
+
+{
+	"ip":"BuildFarmServer.aternos.me",
+	"port": "29254",
+	"name": "botserver",
+	"auto-night-skip":"false"
+}
