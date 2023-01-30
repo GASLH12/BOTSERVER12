@@ -2,7 +2,7 @@
 
 
 {
-	"ip":"game2.falixserver.net",
+	"ip":"game2.falixserver.net:21974",
 	"port": "21974",
 	"name": "botserver",
 	"auto-night-skip":"false"
