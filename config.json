@@ -2,8 +2,8 @@
 
 
 {
-	"ip":"BuildFarmServer.aternos.me",
-	"port": "29254",
+	"ip":"game2.falixserver.net",
+	"port": "21974",
 	"name": "botserver",
 	"auto-night-skip":"false"
 }
